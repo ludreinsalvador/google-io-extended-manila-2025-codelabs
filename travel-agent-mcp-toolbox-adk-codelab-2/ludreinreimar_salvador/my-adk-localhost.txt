@@ -1,0 +1,3 @@
+- [api-toolset]: https://5000-cs-ceb27397-b99c-48df-9edf-3952d89aca06.cs-asia-east1-duck.cloudshell.dev/?authuser=2/api/toolset
+- [mcp-toolbox]: https://8000-cs-ceb27397-b99c-48df-9edf-3952d89aca06.cs-asia-east1-duck.cloudshell.dev/dev-ui/?app=mcp-toolbox
+- [my-agents]: https://8000-cs-ceb27397-b99c-48df-9edf-3952d89aca06.cs-asia-east1-duck.cloudshell.dev/dev-ui/?app=my-agents
