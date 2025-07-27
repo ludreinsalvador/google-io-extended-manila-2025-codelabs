@@ -1,6 +1,6 @@
 # Google I/O Extended Manila 2025 - Codelabs
 
-My hands-on coding workshops from Google I/O Extended Manila 2025, held on July 26, 2025 at Accenture People HUB, BGC.
+My learnings, explorations, and hands-on coding workshops from Google I/O Extended Manila 2025, held on July 26, 2025 at Accenture People HUB, BGC.
 
 ## Event Overview
 
@@ -64,8 +64,6 @@ The codelab implementations in this repository are based on Google's official tu
 **Modifications**: Adapted for personal learning and documentation purposes
 
 For the complete license terms, see the Apache License 2.0 at: https://www.apache.org/licenses/LICENSE-2.0
-
-The Apache License 2.0 permits modification, distribution, and private use of the licensed material, provided proper attribution is maintained.
 
 ---
 
