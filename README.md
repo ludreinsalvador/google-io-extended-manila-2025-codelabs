@@ -4,7 +4,7 @@ My learnings, explorations, and hands-on coding workshops from Google I/O Extend
 
 ## Event Overview
 
-Google I/O Extended Manila 2025 was a full-day developer event featuring inspiring talks, hands-on codelabs, and the latest Google technologies. The event brought together passionate developers to explore AI, machine learning, and cutting-edge web technologies.
+Google I/O Extended Manila 2025 was a full-day developer event featuring inspiring talks, hands-on codelabs, and the latest Google technologies. The event brought together passionate developers and students like me to explore AI, machine learning, and new web technologies.
 
 ## Codelabs I Participated In
 
