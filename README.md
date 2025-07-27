@@ -39,6 +39,15 @@ I learned how implementing agentic AI systems for practical applications work us
 - [`README-cloudshell.txt`](./travel-agent-mcp-toolbox-adk-codelab-2/ludreinreimar_salvador/README-cloudshell.txt) - Cloud Shell setup instructions
 - [`my-adk-localhost.txt`](./travel-agent-mcp-toolbox-adk-codelab-2/ludreinreimar_salvador/my-adk-localhost.txt) - Local development configuration
 
+
+**Screenshots of the Travel Agent App:**
+
+<img src="./documentation/travel-agent-app-1.png" alt="Travel Agent App - Screenshot 1" width="600">
+<img src="./documentation/travel-agent-app-2.png" alt="Travel Agent App - Screenshot 2" width="600">
+<img src="./documentation/travel-agent-app-3.png" alt="Travel Agent App - Screenshot 3" width="600">
+<img src="./documentation/travel-agent-app-4.png" alt="Travel Agent App - Screenshot 4" width="600">
+<img src="./documentation/travel-agent-app-5.png" alt="Travel Agent App - Screenshot 5" width="600">
+
 ## Takeaways
 
 I learned that Multimodal AI is transforming how we interact with technology by combining multiple input types. Agentic AI systems can also provide more intelligent and context-aware responses. Furthermore, real-time APIs enable seamless integration of AI capabilities into applications and Agent Development Kit simplifies the creation of sophisticated AI agents.
