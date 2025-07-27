@@ -29,7 +29,7 @@ I learned how to implement multimodal AI that can see, hear, and understand simu
 
 Built an intelligent travel agent using Google's MCP (Model Context Protocol) Toolbox and Agent Development Kit. This codelab focused on creating agentic AI that can reason, plan, and respond to user queries for dynamic travel recommendations.
 
-I learned how implementing agentic AI systems for practical applications work using MCP Toolbox for database interactions. I also discovered the Agent Development Kit (ADK) for building intelligent conversational agents. I got the chance to create a Hotel Agent app that uses AI and can understand context and provide personalized recommendations.
+I learned how implementing agentic AI systems for practical applications work using MCP Toolbox for database interactions. I also discovered the Agent Development Kit (ADK) which helps for building intelligent conversational agents which I got the opportunity to create a Hotel Agent app that uses AI and can understand context and provide personalized recommendations.
 
 **Folder:** [`travel-agent-mcp-toolbox-adk-codelab-2/ludreinreimar_salvador/`](./travel-agent-mcp-toolbox-adk-codelab-2/ludreinreimar_salvador/)
 
@@ -50,7 +50,7 @@ I learned how implementing agentic AI systems for practical applications work us
 
 ## Takeaways
 
-I learned that Multimodal AI is transforming how we interact with technology by combining multiple input types. Agentic AI systems can also provide more intelligent and context-aware responses. Furthermore, real-time APIs enable seamless integration of AI capabilities into applications and Agent Development Kit simplifies the creation of sophisticated AI agents.
+I learned that Multimodal AI is transforming how we interact with technology by combining multiple input types, while agentic AI systems can also provide more intelligent and context-aware responses. Furthermore, real-time APIs enable seamless integration of AI capabilities into applications and Agent Development Kit simplifies the creation of sophisticated AI agents.
 
 ## Technologies Used
 
